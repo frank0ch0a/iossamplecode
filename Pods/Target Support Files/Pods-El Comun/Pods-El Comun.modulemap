@@ -1,0 +1,6 @@
+framework module Pods_El_Comun {
+  umbrella header "Pods-El Comun-umbrella.h"
+
+  export *
+  module * { export * }
+}
